@@ -10,4 +10,6 @@
 
 #define WIFI_CREDENTIALS_MAX_LEN  64  
 
+#define GET_TIME  20000
+
 #endif // CONFIG_H_
